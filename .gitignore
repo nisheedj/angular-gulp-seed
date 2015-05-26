@@ -33,7 +33,12 @@ test/out-fixtures/*
 test/watch-*.txt
 gulp.1
 
+# NodeJs ignores
+npm-debug.log
+
+
 # Application ignores
+app/css
 app/js/vendor
 app/less/bootstrap
 app/fonts/bootstrap
