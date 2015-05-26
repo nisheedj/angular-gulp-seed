@@ -1,0 +1,1 @@
+define(['./controllers/module', './directives/module', './filters/module', './services/module'], function() {});

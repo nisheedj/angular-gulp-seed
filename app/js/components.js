@@ -1,0 +1,1 @@
+define(['./controllers/index', './directives/index', './filters/index', './services/index'], function() {});
